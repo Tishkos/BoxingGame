@@ -1,0 +1,78 @@
+# ---- Unity generated ----
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+sysinfo.txt
+*.unitypackage
+*.apk
+*.aab
+*.app
+crashlytics-build.properties
+
+# Unity writes these; never hand-edit or commit
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.vs/
+.idea/
+.gradle/
+ExportedObj/
+*.tmp
+*.bak
+
+# ---- Commercial Asset Store packages: NOT redistributable ----
+# Buy and import these yourself. See THIRD-PARTY-NOTICES.md.
+/Assets/Plugins/RootMotion/
+/Assets/Plugins/MotionMatching/
+/Assets/Plugins/MxMSettings.asset*
+/Assets/FImpossible Creations/
+/Assets/RadiantGI/
+/Assets/RadiantGI Bundle/
+/Assets/MagicaCloth2/
+/Assets/Rewired/
+/Assets/FlatKit/
+/Assets/UMotionEditor/
+/Assets/UMotionExamples/
+/UMotionData/
+/Packages/com.kybernetik.animancer/
+/Assets/Animancer*
+/Assets/Shaders/ToonyColorsPro*
+/Assets/ToonyColorsPro*
+
+# ---- Animation / mocap: reference only, not redistributed ----
+/Assets/UndisputedTest/Clips/
+/Assets/ExtractedAnims/
+/Assets/ImportedMxM/
+/Assets/Umotions/
+/Assets/Animations/
+/Assets/Editor/MxM/
+*.anim
+*.fbx
+*.bundle
+
+# ---- Heavy binaries ----
+*.wav
+*.mp3
+*.ogg
+*.psd
+*.tif
+*.tiff
+/PunchDebug/
+/Assets/_Recovery/
