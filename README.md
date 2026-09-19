@@ -68,10 +68,10 @@ instead of guessing strike frames.
 
 ## Building this yourself
 
-This repository contains **my own source code only.** The project depends on several
-commercial Unity Asset Store packages that I am not permitted to redistribute — see
-[THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) for the full list and where to get
-each one. Import those into the project and the source here compiles against them.
+This repository contains **my own source code only.** The project also depends on
+several commercial Unity Asset Store packages which are not redistributable and so are
+not included here. Import those into the project and the source here compiles against
+them.
 
 For a playable version that needs no purchases, use the compiled build on the
 [Releases](../../releases) page.
