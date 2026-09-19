@@ -2,6 +2,9 @@
 
 A physics-driven boxing game built in Unity 6000.5.10f1 (URP).
 
+> **New here? Read [impression.md](impression.md)** — what the game is, why it plays the way
+> it does, and the three problems that took the real work.
+
 Punches are not animation triggers. Every strike is a physical fist Rigidbody driven
 toward a target, layered over an Animancer-blended stance and corrected by IK before
 it reaches the renderer. Contact, stagger and recovery fall out of the simulation
